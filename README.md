@@ -20,4 +20,4 @@ PostgreSQL documentation: [PostgreSQL](https://www.postgresql.org/docs/)
 4. Create database and make a connection (follow docs above)
 5. Run in terminal:
 
-        ```streamlit run app.py```
+        streamlit run app.py
